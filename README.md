@@ -137,5 +137,37 @@ Account Created: Upon successful completion, users receive a confirmation messag
 - After selecting the doctor you will go to the Booking Page
 
 ![Booking page](https://github.com/adhishbiju2000/Doctor-Appointment-website-SolvRX/assets/156699315/7a5d624c-6d0e-4276-9d09-8170a07b07c4)
+#
+# At the last you need to pay the Payment 
+
+![Payment page](https://github.com/adhishbiju2000/Doctor-Appointment-website-SolvRX/assets/156699315/48512c0c-43bc-47ac-8b29-441f6188079e)
+#
+#
+# Front-End Development
+
+The front-end of SolvRX is designed to ensure simplicity and ease of use. Key technologies used in development include:
+
+- HTML: For structuring the web pages.
+- CSS: For styling the interface to make it visually appealing.
+- JavaScript: For adding interactivity and enhancing user experience.
+- Project Learning and Future Improvements
+
+# Project Learning
+- User-Centric Design: The importance of designing a simple and intuitive interface that caters to users of all ages.
+- Responsive Design: Ensuring the website is accessible on various devices, including desktops, tablets, and smartphones.
+- Feedback Mechanism: Incorporating a feedback system to continuously improve the platform based on user input.
+
+# Future Improvements
+
+- Backend Integration: Implementing backend functionalities to manage user data, appointments, and payments securely.
+- AI Integration: Introducing AI features to recommend doctors based on user preferences and medical history.
+- Multi-Language Support: Adding support for multiple languages to cater to a global audience.
+- Mobile Application: Developing a mobile app version of SolvRX to enhance accessibility and convenience for users.
+
+# Conclusion
+
+SolvRX aims to revolutionize the way users access medical consultations by providing a seamless, user-friendly platform. The project focuses on creating a robust front-end that facilitates easy navigation, appointment booking, and effective communication with doctors worldwide. With future improvements and backend integration, SolvRX has the potential to become a comprehensive solution for online medical consultations.
+
+
 
 
