@@ -75,6 +75,41 @@ The About page of SolvRX is dedicated to providing users with detailed informati
 #
 #
 ![About Page](https://github.com/adhishbiju2000/Doctor-Appointment-website-SolvRX/assets/156699315/e0543a78-8e17-4abe-986c-fa969d05e380)
+#
+#
 
+# Sign Up / New Account Creation
+The Sign Up or New Account Creation process on SolvRX is designed to be quick, easy, and user-friendly, ensuring that users can start using the platform with minimal hassle.
+
+## Step-by-Step Guide
+
+- Access the Sign Up Page
+- Users can access the Sign Up page by clicking on the "Sign Up" button prominently displayed on the Home page or in the navigation bar.
+User Information
+
+Basic Details: Users are prompted to enter basic details such as their full name, email address, .
+Password Creation: Users create a secure password for their account. Password guidelines are provided to ensure strong security.
+
+# Verification
+
+- Email Verification: Users receive a verification email with a link to confirm their email address. This step ensures that the email provided is valid and accessible.
+- Phone Verification: Optionally, users may receive a verification code via SMS to verify their phone number.
+Profile Setup
+
+- Personal Information: Users can fill in additional personal information, such as their age, gender, and any relevant medical history. This information helps in personalizing the user experience.
+- Profile Picture: Users have the option to upload a profile picture, adding a personal touch to their account.
+Terms and Conditions
+
+- Agreement: Users are required to read and agree to the Terms of Service and Privacy Policy before completing the sign-up process. This step ensures that users are aware of their rights and responsibilities.
+
+# Completion
+Account Created: Upon successful completion, users receive a confirmation message, and their account is activated. They can now log in and start using SolvRX.
+
+# Images of Account creation and Sign Up Images
+
+![Creating a new account](https://github.com/adhishbiju2000/Doctor-Appointment-website-SolvRX/assets/156699315/e84d0b90-6500-4df4-af70-9aea36537eca)
+
+# Sign Up Page Image
+![Signup Page](https://github.com/adhishbiju2000/Doctor-Appointment-website-SolvRX/assets/156699315/a2b97748-2e34-460e-9dd2-8cdb247a6a98)
 
 
