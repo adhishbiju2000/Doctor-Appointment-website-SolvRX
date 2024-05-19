@@ -111,5 +111,31 @@ Account Created: Upon successful completion, users receive a confirmation messag
 
 # Sign Up Page Image
 ![Signup Page](https://github.com/adhishbiju2000/Doctor-Appointment-website-SolvRX/assets/156699315/a2b97748-2e34-460e-9dd2-8cdb247a6a98)
+#
+#
+# Booking Process
+
+- Department Selection: Users choose a medical department, such as Diabetes, Pediatrics, Acne, etc.
+- Doctor Selection: Users can view a list of top-ranked doctors in the selected department, with information about their qualifications and consultation fees.
+- Appointment Booking: Users select a doctor, choose an appointment date, and proceed to book the appointment.
+- Payment: Users complete the payment process online. Upon successful payment, users receive a bill detailing the payment amount, doctor's name, and appointment time.
+- Meeting Code: Users receive a Zoom meeting code or another online meeting link to join the consultation at the scheduled time.
+
+# Booking page / Appointment page image where user required to select the Department 
+
+![Appointment Portal image](https://github.com/adhishbiju2000/Doctor-Appointment-website-SolvRX/assets/156699315/fbe8fe7b-8c0b-4d0e-a3a8-763b275a235b)
+
+# After that the user is required to select the any of the Department 
+
+- For reference I am selecting Dermatologist Department.
+- so click on that.
+
+![Dermatologist specialist](https://github.com/adhishbiju2000/Doctor-Appointment-website-SolvRX/assets/156699315/b0610ede-57aa-48cc-8017-161af5072085)
+
+# After clicking that select any Doctor Based on your choice
+
+- After selecting the doctor you will go to the Booking Page
+
+![Booking page](https://github.com/adhishbiju2000/Doctor-Appointment-website-SolvRX/assets/156699315/7a5d624c-6d0e-4276-9d09-8170a07b07c4)
 
 
