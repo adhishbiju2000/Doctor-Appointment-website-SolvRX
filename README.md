@@ -46,19 +46,17 @@ Department Listings: An overview of the different medical departments available 
 - Engaging Visuals: Use of high-quality images and icons to make the page visually appealing and engaging, enhancing user experience.
 
 # Image of Home Screen of SolvRX
-
-
+#
+#
 ![Home Page 1](https://github.com/adhishbiju2000/Doctor-Appointment-website-SolvRX/assets/156699315/d7a287b7-7453-41bf-b625-36f9c38d9be2)
-
-
- 
+#
+#
 ![Home Page 2 ](https://github.com/adhishbiju2000/Doctor-Appointment-website-SolvRX/assets/156699315/a9a16d97-5f74-4f8b-a6de-98b66886f7eb)
-
-
-
+#
+#
 ![Home Page 3](https://github.com/adhishbiju2000/Doctor-Appointment-website-SolvRX/assets/156699315/9cadf618-3801-4a56-8200-67564d4477c3)
-
-
+#
+#
 # About Page Overview
 
 The About page of SolvRX is dedicated to providing users with detailed information about the platform, its mission, and the services it offers. This page aims to build trust and confidence among users by highlighting the unique features and benefits of SolvRX.
@@ -74,7 +72,8 @@ The About page of SolvRX is dedicated to providing users with detailed informati
 - Special Care: Highlight any special care programs or services that distinguish SolvRX from other platforms, such as personalized treatment plans, continuous health monitoring, and access to exclusive health resources.
 
 # Image of About Page of SolvRX
-
+#
+#
 ![About Page](https://github.com/adhishbiju2000/Doctor-Appointment-website-SolvRX/assets/156699315/e0543a78-8e17-4abe-986c-fa969d05e380)
 
 
